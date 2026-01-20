@@ -199,10 +199,6 @@ img {
 
 .form-label-agreement {
   margin-bottom: 0;
-  display: inline-flex;
-  flex-direction: row;
-  align-items: center;
-  white-space: nowrap;
 }
 
 .form-input-container {
